@@ -18,21 +18,21 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
   Deploy, using Sagemaker, a PyTorch sentiment analysis model to recognize the sentiment of movie reviews (positive or negative).
 
-  - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Deployment%20Project%20Sentiment%20Analysis/Deployment%20Project%20Sentiment%20Analysis%20Review.md)
+  - [Project](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) and [review from Udacity](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Deployment%20Project%20Sentiment%20Analysis/Deployment%20Project%20Sentiment%20Analysis%20Review.md)
 
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
   Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
 
-  - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Plagiarism%20Detection/Plagiarism%20Detector%20Review.md)
+  - [Project](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection) and [review from Udacity](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Plagiarism%20Detection/Plagiarism%20Detector%20Review.md)
 
 - *Machine Learning Capstone Project*
 
   A final project that involves data exploration and machine learning.
   
-  - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
-  - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
-  - [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf)
+  - [About](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
+  - [Project Proposal](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
+  - [Project Report](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf)
 
 <br>
 
