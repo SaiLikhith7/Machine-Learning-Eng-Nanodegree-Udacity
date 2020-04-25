@@ -48,7 +48,3 @@ The dataset used in this project is the [Urbansound8k](https://urbansounddataset
 [2] L. Poon, The Sound of Heavy Traffic Might Take a Toll on Mental Health, CityLab, [Online Available](https://www.citylab.com/equity/2015/11/city-noise-mental-health-traffic-study/417276/)
 
 <br>
-
----
-
-Last modified: 1 January 2020
