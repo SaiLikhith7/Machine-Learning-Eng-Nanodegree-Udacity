@@ -1,5 +1,3 @@
-![Udacity-Machine-Learning-Engineer-Nanodegree](Udacity-Machine-Learning-Engineer-Nanodegree.jpg)
-
 # Machine Learning Engineer Nanodegree
 
 Period: 25 March 2020 - 24 April 2020 (Ongoing)
