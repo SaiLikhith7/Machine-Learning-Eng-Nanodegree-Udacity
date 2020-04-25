@@ -31,7 +31,3 @@ There are three main notebooks:
 
 <br>
 
----
-
-Last modified: 8 November 2019
-
