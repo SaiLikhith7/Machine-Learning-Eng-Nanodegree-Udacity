@@ -18,13 +18,13 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
   Deploy, using Sagemaker, a PyTorch sentiment analysis model to recognize the sentiment of movie reviews (positive or negative).
 
-  - [Project](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) 
+  - [Project](https://github.com/SaiLikhith7/Machine-Learning-Engineer-Nanodegree-Udacity/tree/master/Deployment%20Project%20Sentiment%20Analysis) 
 
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
   Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
 
-  - [Project](https://github.com/SaiLikhith7/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection)
+  - [Project](https://github.com/SaiLikhith7/Machine-Learning-Engineer-Nanodegree-Udacity/tree/master/Plagiarism%20Detection)
 
 - *Machine Learning Capstone Project*
 
