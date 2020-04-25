@@ -1,6 +1,6 @@
 # Deploying a Sentiment Analysis Model
 
-Review date: 29 September 2019.
+Review date: 24th April.
 
 
 
