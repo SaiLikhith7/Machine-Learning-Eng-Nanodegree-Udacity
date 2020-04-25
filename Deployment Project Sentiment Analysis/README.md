@@ -17,7 +17,3 @@ In this project we will construct a recurrent neural network for the purpose of 
 - The edited `website/index.html` file. (Note: the api url is removed in the version you find on GitHub)
 
 <br>
-
----
-
-Last modified: 28 September 2019
