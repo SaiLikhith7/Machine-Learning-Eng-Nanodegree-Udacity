@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 
-Period: 25 March 2020 - 24 April 2020 (Ongoing)
+Period: 25 March 2020 - 20 May 2020 (Ongoing)
 
 <br>
 
