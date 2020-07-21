@@ -11,8 +11,6 @@ Period: 25 March 2020 - 20 May 2020 (Ongoing)
 
 **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a as web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
 
-More information, visit the [Udacity Machine Learning Nanodegree webpage](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
-
 <br>
 
 **Projects:**
