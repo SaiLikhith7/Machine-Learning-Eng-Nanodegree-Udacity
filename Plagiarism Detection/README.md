@@ -1,6 +1,6 @@
 # Plagiarism Project, Machine Learning Deployment
 
-## Using SageMaker
+## Using AWS SageMaker
 
 <br>
 
